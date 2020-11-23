@@ -258,7 +258,7 @@ header .nav-toggle span::after {
 
 .home-section {
     min-height: 100vh;
-    background-image: url('images5/img/home-bg.jpg');
+    background-image: url('img/home-bg.jpg');
     background-size: cover;
     background-position: center;
     position: relative;
@@ -579,7 +579,7 @@ header .nav-toggle span::after {
 
 .contact-section .contact-img .img-box {
     padding: 200px 0px;
-    background-image: url('images5/img/contact-bg.jpg');
+    background-image: url('img/contact-bg.jpg');
     background-size: cover;
     background-position: center;
 }
